@@ -1,0 +1,40 @@
+{
+  "seller": [
+    {
+      "id": "8133",
+      "username": "adarsh",
+      "email": "adarsh@gmail.com",
+      "password": "Password@12345"
+    },
+    {
+      "id": "d80a",
+      "username": "asdf",
+      "email": "sdf",
+      "password": "sdfasf"
+    },
+    {
+      "id": "8fed",
+      "username": "sdfsdf",
+      "email": "sdf@123",
+      "password": "sdfsdf"
+    },
+    {
+      "id": "1da8",
+      "username": "asdf",
+      "email": "sdfdfd",
+      "password": "sdfsdfsdf"
+    },
+    {
+      "id": "8dd1",
+      "username": "sdsdf",
+      "email": "ffd",
+      "password": "sdfssss"
+    },
+    {
+      "id": "ef1b",
+      "username": "sdf",
+      "email": "sdf",
+      "password": "sdf"
+    }
+  ]
+}
